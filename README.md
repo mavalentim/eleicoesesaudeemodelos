@@ -1,2 +1,2 @@
-# eleicoesesaudeemodelos
-do-files sobre saude, eleicoes e modelos probit, logit e propensity score weighting
+# propensity score weighting
+Do-files para diferentes propensity score weighting, elucidando o processo, as variáveis usadas e as regressões rodadas. 
